@@ -1,1 +1,2 @@
+각오:222
 printf('thanks')
